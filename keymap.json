@@ -110,8 +110,8 @@
       "KC_9",
       "KC_0",
       "KC_RALT",
-      "KC_LSFT",
       "KC_LCTL",
+      "KC_LSFT",
       "KC_NO"
     ],
     [
@@ -177,7 +177,7 @@
       "KC_END",
       "LSFT(KC_TAB)",
       "KC_NO",
-      "RSFT(KC_7)",
+      "RALT(KC_7)",
       "LSFT(KC_8)",
       "LSFT(KC_9)",
       "TO(0)",
@@ -218,8 +218,8 @@
       "KC_9",
       "KC_0",
       "KC_RALT",
-      "KC_LSFT",
       "KC_LCTL",
+      "KC_LSFT",
       "KC_NO"
     ]
   ],
